@@ -3,10 +3,10 @@
     "otaVersion": 1,
     "android": {
       "version": 1,
-      "url": "https://ota.vuga.tv/1.4.7/latest/index.android.bundle"
+      "url": "https://ota.vuga.tv/1.4.7/latest/index.android.bundle.zip?alt=media"
     },
     "ios": {
       "version": 1,
-      "url": "https://ota.vuga.tv/1.4.7/latest/index.ios.bundle"
+      "url": "https://ota.vuga.tv/1.4.7/latest/index.ios.bundle.zip?alt=media"
     }
   }
