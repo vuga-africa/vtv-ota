@@ -1,12 +1,12 @@
 {
     "binaryVersion": "1.5.0",
-    "otaVersion": 2,
+    "otaVersion": 3,
     "android": {
-      "version": 2,
-      "url": "https://ota.vuga.tv/1.5.0/2/index.android.bundle.zip?alt=media"
+      "version": 3,
+      "url": "https://ota.vuga.tv/1.5.0/3/index.android.bundle.zip?alt=media"
     },
     "ios": {
-      "version": 2,
-      "url": "https://ota.vuga.tv/1.5.0/2/main.jsbundle.zip?alt=media"
+      "version": 3,
+      "url": "https://ota.vuga.tv/1.5.0/3/main.jsbundle.zip?alt=media"
     }
   }
